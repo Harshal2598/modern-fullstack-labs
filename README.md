@@ -1,28 +1,14 @@
-# Modern Full-Stack Labs
+# 💻 Modern Full-Stack Labs: Client-Side Architecture
 
-A centralized engineering sandbox dedicated to building full-stack web architectures, semantic user interfaces, responsive layouts, and modern web integrations. This repository documents hands-on mastery of web rendering lifecycles and browser navigation mechanics.
-
----
-
-## 🛠️ Core Technologies
-* **Document Architecture:** HTML5 (Semantic Structure)
-* **Hosting & Automation:** GitHub Pages
-* **Networking Context:** Client-Server Request Lifecycles, HTTP Routing, and DNS Dynamics
+A structured repository containing engineering labs, algorithmic scripts, and component-driven user interfaces. This space maps my complete frontend trajectory from raw layouts to dynamic, single-page applications (SPAs), serving as the user-interface ecosystem for enterprise Java backends.
 
 ---
 
-## 📁 Repository Blueprint & Labs Directory
+## 🛠️ Tech Stack & Learning Path
+
+This repository tracks my progress across three core pillars of modern web client architecture:
 
 ```text
-modern-fullstack-labs/
-│
-├── 01-html-foundations/            # Core Structural Engineering
-│   ├── movie-ranking.html          # Semantic hierarchy check (h1-h6) & void elements
-│   └── README.md
-│
-└── 02-html-portfolio-resume/       # Multi-Page Routing & Layout Architectures
-    ├── index.html                  # Main Portfolio landing page & anchor navigation
-    ├── about.html                  # Relative file path execution lab
-    ├── contact.html                # Form entry and endpoint tracking
-    └── resume/                     # Capstone Project Module
-        └── resume.html             # Semantic Online Resume portfolio asset
+ 🧱 HTML5 & CSS3          ⚙️ Modern JavaScript (ES6+)          ⚛️ React.js Framework
+(Angela Yu Bootcamp)   ➔   (Jonas Schmedtmann Course)   ➔    (Component Architecture)
+ Structural Elements          Core Logic Engine & DOM           State, Hooks & Dynamic UI
